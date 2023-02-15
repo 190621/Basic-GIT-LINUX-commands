@@ -16,8 +16,8 @@
 **git status:** Shows the current status of the repository, including changes that have been made but not yet committed.
 
 **git log:** Shows a history of commits made to the repository.
-**
-Linux commands:**
+
+**Linux commands:**
 
 **cd [directory]: **Changes the current working directory to the specified directory.
 
@@ -28,10 +28,10 @@ Linux commands:**
 **rm [file]:** Removes a file.
 
 **cp [source] [destination]:** Copies a file or directory from the source to the destination.
-**
-mv [source] [destination]:** Moves a file or directory from the source to the destination.
-**
-cat [file]:** Displays the contents of a file.
+
+**mv [source] [destination]:** Moves a file or directory from the source to the destination.
+
+**cat [file]:** Displays the contents of a file.
 
 **grep [pattern] [file]:** Searches a file for a specified pattern.
 
