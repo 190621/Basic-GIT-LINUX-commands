@@ -19,11 +19,11 @@
 
 **Linux commands:**
 
-**cd [directory]: **Changes the current working directory to the specified directory.
+**cd [directory]:** Changes the current working directory to the specified directory.
 
 **ls:** Lists the files and directories in the current directory.
 
-**mkdir [directory]: **Creates a new directory with the specified name.
+**mkdir [directory]:** Creates a new directory with the specified name.
 
 **rm [file]:** Removes a file.
 
@@ -35,6 +35,6 @@
 
 **grep [pattern] [file]:** Searches a file for a specified pattern.
 
-**sudo [command]: **Executes a command with superuser (root) privileges.
+**sudo [command]:** Executes a command with superuser (root) privileges.
 
 **chmod [permissions] [file]:** Changes the permissions of a file or directory.
